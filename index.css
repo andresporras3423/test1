@@ -1,6 +1,11 @@
-img {
+#main {
+    background:rgb(247, 243, 243) !important;
+}
+
+#image {
     max-width: 100%;
     display: block;
     height: auto;
     margin: 0 auto;
 }
+
